@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to design websites and to code.
 - 💞️ I’m looking to collaborate on anything creative.
 - 📫 How to reach me ... send me an email robertianyates [at] gmail.com
-- You can also check out some of my writing and music if you're so inclined! www.rob-yates.co.uk
+- You can also check out some of my writing if you're so inclined! www.rob-yates.co.uk
 
 <!---
 municipalrates/municipalrates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
